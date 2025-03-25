@@ -39,7 +39,7 @@ To display the most recent alert message on any page or post, use the following 
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for more details.
+**GPLv3** License. See [LICENSE](LICENSE) for more details.
 
 ## Author
 
